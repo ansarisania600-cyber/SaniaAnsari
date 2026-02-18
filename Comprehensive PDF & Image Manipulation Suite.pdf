@@ -1,0 +1,807 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 2629
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 18 Tf
+20.6999999999999993 TL
+0 g
+235.8999999999999488 785.1970866141732586 Td
+(Project Report) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 742.6774015748030706 Td
+(Title of Project:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 711.4962992125983874 Td
+(Comprehensive PDF & Image Manipulation Suite) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 667.559291338582625 Td
+(Name of the Innovator:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 636.3781889763779418 Td
+(Sania Ansari ) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 592.4411811023621794 Td
+(Start Date:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 561.2600787401574962 Td
+(11/02/2026) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 517.3230708661417339 Td
+(End Date:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 486.1419685039369369 Td
+(18/02/2026) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0 g
+56.6929133858267775 442.2049606299212314 Td
+(Day 1: Empathise & Define) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 408.1892125984251152 Td
+(Step 1: Understanding the Need) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 362.8348818897637216 Td
+(Which problem am I trying to solve?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 331.6537795275589815 Td
+(Currently, users face tool fragmentation when managing digital documents. Simple tasks like) Tj
+T* (merging PDFs, compressing images, or file conversion often require visiting multiple, disconnected) Tj
+T* (websites or installing heavy, expensive software \(e.g., Adobe Acrobat\). This results in a disjointed) Tj
+T* (workflow and productivity loss.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 240.9451181102361943 Td
+(Who is affected by this problem?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 209.7640157480313974 Td
+(The primary groups affected are Students facing submission portals limits, Job Aspirants struggling) Tj
+T* (with strict upload guidelines, and Professionals needing quick, software-free document processing.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 150.2364566929132934 Td
+(How did I find out about this?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 119.0553543307086102 Td
+(Interviews, Observation, AI Tools, Online Research) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 75.1183464566928478 Td
+(Step 2: Problem Statement) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 4124
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 785.1970866141732586 Td
+("Currently, users face a fragmented workflow when managing digital documents. To perform basic) Tj
+T* (operations like merging PDFs, compressing images, or converting formats, they are forced to) Tj
+T* (navigate multiple disconnected websites or install expensive, heavy software. Furthermore, existing) Tj
+T* (free solutions often degrade user experience with intrusive ads, privacy risks, and slow processing,) Tj
+T* (creating a need for a unified, lightweight, and efficient document manipulation suite.") Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 678.8978740157480161 Td
+(Why is this problem important to solve?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 647.7167716535432191 Td
+("Currently, users face a fragmented workflow when managing digital documents. To perform basic) Tj
+T* (operations like merging PDFs, compressing images, or converting formats, they are forced to) Tj
+T* (navigate multiple disconnected websites or install expensive, heavy software. Furthermore, existing) Tj
+T* (free solutions often degrade user experience with intrusive ads, privacy risks, and slow processing,) Tj
+T* (creating a need for a unified, lightweight, and efficient document manipulation suite.") Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 541.4175590551180903 Td
+(Take-home task insights:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 510.2364566929133503 Td
+("Currently, users face a fragmented workflow when managing digital documents. To perform basic) Tj
+T* (operations like merging PDFs, compressing images, or converting formats, they are forced to) Tj
+T* (navigate multiple disconnected websites or install expensive, heavy software. Furthermore, existing) Tj
+T* (free solutions often degrade user experience with intrusive ads, privacy risks, and slow processing,) Tj
+T* (creating a need for a unified, lightweight, and efficient document manipulation suite.") Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0 g
+56.6929133858267775 403.9372440944881077 Td
+(Day 2: Ideate) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 369.9214960629920483 Td
+(Step 3: List at least 5 different solutions:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 338.7403937007873083 Td
+(1. "Currently, users face a fragmented workflow when managing digital documents. To perform) Tj
+T* (basic operations like merging PDFs, compressing images, or converting formats, they are forced to) Tj
+T* (navigate multiple disconnected websites or install expensive, heavy software. Furthermore, existing) Tj
+T* (free solutions often degrade user experience with intrusive ads, privacy risks, and slow processing,) Tj
+T* (creating a need for a unified, lightweight, and efficient document manipulation suite.") Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 246.614409448818833 Td
+(2. "Currently, users face a fragmented workflow when managing digital documents. To perform) Tj
+T* (basic operations like merging PDFs, compressing images, or converting formats, they are forced to) Tj
+T* (navigate multiple disconnected websites or install expensive, heavy software. Furthermore, existing) Tj
+T* (free solutions often degrade user experience with intrusive ads, privacy risks, and slow processing,) Tj
+T* (creating a need for a unified, lightweight, and efficient document manipulation suite.") Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 154.4884251968503577 Td
+(3. "Currently, users face a fragmented workflow when managing digital documents. To perform) Tj
+T* (basic operations like merging PDFs, compressing images, or converting formats, they are forced to) Tj
+T* (navigate multiple disconnected websites or install expensive, heavy software. Furthermore, existing) Tj
+T* (free solutions often degrade user experience with intrusive ads, privacy risks, and slow processing,) Tj
+T* (creating a need for a unified, lightweight, and efficient document manipulation suite.") Tj
+ET
+endstream
+endobj
+7 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 8 0 R
+>>
+endobj
+8 0 obj
+<<
+/Length 3739
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 785.1970866141732586 Td
+(4. "Currently, users face a fragmented workflow when managing digital documents. To perform) Tj
+T* (basic operations like merging PDFs, compressing images, or converting formats, they are forced to) Tj
+T* (navigate multiple disconnected websites or install expensive, heavy software. Furthermore, existing) Tj
+T* (free solutions often degrade user experience with intrusive ads, privacy risks, and slow processing,) Tj
+T* (creating a need for a unified, lightweight, and efficient document manipulation suite.") Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 678.8978740157480161 Td
+(Step 4: My favourite solution:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 647.7167716535432191 Td
+("Currently, users face a fragmented workflow when managing digital documents. To perform basic) Tj
+T* (operations like merging PDFs, compressing images, or converting formats, they are forced to) Tj
+T* (navigate multiple disconnected websites or install expensive, heavy software. Furthermore, existing) Tj
+T* (free solutions often degrade user experience with intrusive ads, privacy risks, and slow processing,) Tj
+T* (creating a need for a unified, lightweight, and efficient document manipulation suite.") Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 541.4175590551180903 Td
+(Step 5: Why am I choosing this solution?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 510.2364566929133503 Td
+("Currently, users face a fragmented workflow when managing digital documents. To perform basic) Tj
+T* (operations like merging PDFs, compressing images, or converting formats, they are forced to) Tj
+T* (navigate multiple disconnected websites or install expensive, heavy software. Furthermore, existing) Tj
+T* (free solutions often degrade user experience with intrusive ads, privacy risks, and slow processing,) Tj
+T* (creating a need for a unified, lightweight, and efficient document manipulation suite.") Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0 g
+56.6929133858267775 403.9372440944881077 Td
+(Day 3: Prototype & Test) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 369.9214960629920483 Td
+(Step 6: What will my solution look like?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 338.7403937007873083 Td
+("Currently, users face a fragmented workflow when managing digital documents. To perform basic) Tj
+T* (operations like merging PDFs, compressing images, or converting formats, they are forced to) Tj
+T* (navigate multiple disconnected websites or install expensive, heavy software. Furthermore, existing) Tj
+T* (free solutions often degrade user experience with intrusive ads, privacy risks, and slow processing,) Tj
+T* (creating a need for a unified, lightweight, and efficient document manipulation suite.") Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 232.4411811023621794 Td
+(What AI tools will I need?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 201.2600787401573825 Td
+("It demonstrates the practical application of File Handling logic and MIME-type manipulation within) Tj
+T* (a web environment, bridging the gap between raw backend logic and frontend usability.") Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 141.7325196850392786 Td
+(Selected AI tools:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 110.5514173228345953 Td
+(1. "It demonstrates the practical application of File Handling logic and MIME-type manipulation) Tj
+T* (within a web environment, bridging the gap between raw backend logic and frontend usability.") Tj
+ET
+endstream
+endobj
+9 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 10 0 R
+>>
+endobj
+10 0 obj
+<<
+/Length 3438
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 785.1970866141732586 Td
+(2. "It demonstrates the practical application of File Handling logic and MIME-type manipulation) Tj
+T* (within a web environment, bridging the gap between raw backend logic and frontend usability.") Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 739.8427559055118081 Td
+(3. "It demonstrates the practical application of File Handling logic and MIME-type manipulation) Tj
+T* (within a web environment, bridging the gap between raw backend logic and frontend usability.") Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 694.4884251968503577 Td
+(4. "It demonstrates the practical application of File Handling logic and MIME-type manipulation) Tj
+T* (within a web environment, bridging the gap between raw backend logic and frontend usability.") Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 649.1340944881889072 Td
+(5. "It demonstrates the practical application of File Handling logic and MIME-type manipulation) Tj
+T* (within a web environment, bridging the gap between raw backend logic and frontend usability.") Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 589.6065354330708033 Td
+(Step 7: Test - Getting Feedback) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 544.2522047244094665 Td
+(Who did I share my solution with?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 513.0711023622046696 Td
+("It demonstrates the practical application of File Handling logic and MIME-type manipulation within) Tj
+T* (a web environment, bridging the gap between raw backend logic and frontend usability.") Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 453.5435433070865656 Td
+(What works well:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 422.3624409448818255 Td
+("It demonstrates the practical application of File Handling logic and MIME-type manipulation within) Tj
+T* (a web environment, bridging the gap between raw backend logic and frontend usability.") Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 362.8348818897637216 Td
+(What needs improvement:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 331.6537795275589815 Td
+("It demonstrates the practical application of File Handling logic and MIME-type manipulation within) Tj
+T* (a web environment, bridging the gap between raw backend logic and frontend usability.") Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0 g
+56.6929133858267775 272.1262204724408775 Td
+(Day 4: Showcase) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 238.1104724409448181 Td
+(Step 8: Final Project Title:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 206.9293700787401349 Td
+("It demonstrates the practical application of File Handling logic and MIME-type manipulation within) Tj
+T* (a web environment, bridging the gap between raw backend logic and frontend usability.") Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 147.4018110236219172 Td
+(1-Minute Pitch Summary:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 116.220708661417234 Td
+("It demonstrates the practical application of File Handling logic and MIME-type manipulation within) Tj
+T* (a web environment, bridging the gap between raw backend logic and frontend usability.") Tj
+ET
+endstream
+endobj
+11 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 12 0 R
+>>
+endobj
+12 0 obj
+<<
+/Length 1190
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 785.1970866141732586 Td
+(Step 9: Reflections) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 739.8427559055118081 Td
+(What did I enjoy the most?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 708.6616535433070112 Td
+("It demonstrates the practical application of File Handling logic and MIME-type manipulation within) Tj
+T* (a web environment, bridging the gap between raw backend logic and frontend usability.") Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 649.1340944881889072 Td
+(What was my biggest challenge?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 617.952992125984224 Td
+("It demonstrates the practical application of File Handling logic and MIME-type manipulation within) Tj
+T* (a web environment, bridging the gap between raw backend logic and frontend usability.") Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 558.42543307086612 Td
+(Project Link:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 527.2443307086614368 Td
+(https://preview--pixelpdf-lab.lovable.app/) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R ]
+/Count 5
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+19 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+20 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+21 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+22 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+23 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+24 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+25 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+26 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 13 0 R
+/F2 14 0 R
+/F3 15 0 R
+/F4 16 0 R
+/F5 17 0 R
+/F6 18 0 R
+/F7 19 0 R
+/F8 20 0 R
+/F9 21 0 R
+/F10 22 0 R
+/F11 23 0 R
+/F12 24 0 R
+/F13 25 0 R
+/F14 26 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+27 0 obj
+<<
+/Producer (jsPDF 4.0.0)
+/CreationDate (D:20260218092928+05'30')
+>>
+endobj
+28 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 29
+0000000000 65535 f 
+0000016085 00000 n 
+0000017932 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000002833 00000 n 
+0000002970 00000 n 
+0000007146 00000 n 
+0000007283 00000 n 
+0000011074 00000 n 
+0000011212 00000 n 
+0000014703 00000 n 
+0000014842 00000 n 
+0000016167 00000 n 
+0000016293 00000 n 
+0000016424 00000 n 
+0000016558 00000 n 
+0000016696 00000 n 
+0000016820 00000 n 
+0000016949 00000 n 
+0000017081 00000 n 
+0000017217 00000 n 
+0000017345 00000 n 
+0000017472 00000 n 
+0000017601 00000 n 
+0000017734 00000 n 
+0000017836 00000 n 
+0000018185 00000 n 
+0000018271 00000 n 
+trailer
+<<
+/Size 29
+/Root 28 0 R
+/Info 27 0 R
+/ID [ <0B666FC9BE3EE0D2B661A1D4FA1CAA71> <0B666FC9BE3EE0D2B661A1D4FA1CAA71> ]
+>>
+startxref
+18375
+%%EOF
